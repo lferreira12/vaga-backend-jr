@@ -6,11 +6,11 @@ Abaixo informações da vaga e do teste!
 ## O que é a Airfluencers?
 Somos a plataforma mais completa da América Latina para encontrar, analisar e gerenciar seu marketing com influenciadores.  
 A Airfluencers tem como objetivo potencializar seus resultados no marketing de influência de maneira simples e rápida.
-Nós estamos localizados em São Paulo, na Av Eusébio Matoso, à 5 minutos da estação faria lima do metrô.
+Nós estamos localizados em São Paulo, na Av Eusébio Matoso, há 5 minutos da estação faria lima do metrô.
 **Para mais informações acesse nosso [site](https://airfluencers.com)!**
 
 ## Sobre a vaga
-Estamos à procura de um(a) programador(a) com foco em Backend com as seguintes tecnologias:
+Estamos buscando um(a) programador(a) com foco em Backend com as seguintes tecnologias:
 
  - Noções de NodeJS;
  - Noções de Banco de dados Mysql ou Mongodb.
@@ -23,7 +23,7 @@ A primeira etapa é enviar um currículo para nós por e-mail: [luciano@airfluen
 
 ## Sobre o Teste
 - Este teste servirá para entendermos suas qualidades e dificuldades técnicas, não existe resposta "correta", vamos analisar a forma de resolver o problema e as abordagens que foram feitas.
-- Crie um fork deste repositório e faca seu projeto com uma branch separada, a branch deve ter seu e-mail como nome.
+- Crie um fork deste repositório e faça seu projeto com uma branch separada, a branch deve ter seu e-mail ou username como nome.
 
 ### Problema
 Estamos organizando um campeonato de futebol de 6 clubes e precisamos organizar os jogos, classificação e cadastro dos times.
