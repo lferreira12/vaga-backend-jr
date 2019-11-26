@@ -12,7 +12,7 @@ Nós estamos localizados em São Paulo, na Av Eusébio Matoso, há 5 minutos da 
 ## Sobre a vaga
 Estamos buscando um(a) programador(a) com foco em Backend com as seguintes tecnologias:
 
- - Noções de NodeJS;
+ - Noções de NodeJS ou Python;
  - Noções de Banco de dados Mysql ou Mongodb.
  - Saber trabalhar em equipe
  - Saber discutir de forma saudável sobre as decisões dos projetos
@@ -26,10 +26,10 @@ A primeira etapa é enviar um currículo para nós por e-mail: [luciano@airfluen
 - Crie um fork deste repositório e faça seu projeto com uma branch separada, a branch deve ter seu e-mail ou username como nome.
 
 ### Problema
-Estamos organizando um campeonato de futebol de 6 clubes e precisamos organizar os jogos, classificação e cadastro dos times.
+Estamos organizando um campeonato de futebol de 4 clubes e precisamos organizar os jogos, classificação e cadastro dos times.
 
 - O campeonato é de pontos corridos, ao estilo campeonato brasileiro;
-- Existe apenas um turno, isto é, todos os times se enfrentam, totalizando 5 jogos para cada clube;
+- Existe apenas um turno, isto é, todos os times se enfrentam, totalizando 3 jogos para cada clube;
 - Os jogos podem ser cadastrados manualmente ou de forma automática, não é obrigatório ser automático
 - A tabela de classificação deve levar em consideração os seguintes critérios:
 	- Pontos;
@@ -41,11 +41,12 @@ Estamos organizando um campeonato de futebol de 6 clubes e precisamos organizar 
 ### Objetivo
 Devo conseguir cadastrar os clubes, jogos e seus placares, analisar a tabela de classificação tanto no meio como no final do campeonato.
 
-## Premissas
--	Deve ser em **NodeJS**
+## Tarefas a serem executadas
+-	Deve ser em **NodeJS** ou em **Python**
 -	Seguir todo o conceito de **API Restful**
--	Documentação completa dos endpoints para consumo
--	Documentação completa de como executar o projeto
+-	Documentação dos endpoints para consumo
+-	Documentação de como executar o projeto
+-	Utilizar **Docker** se possível
 -	Login com e-mail e senha
 -	Proteger os endpoints com autenticação
 
